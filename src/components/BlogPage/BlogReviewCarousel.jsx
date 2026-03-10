@@ -1,7 +1,4 @@
 import { WhatourClientssayAboutUsOne } from "../../content/data"
-import Profile1 from "../../assets/BlogPage/blog-page-Review-Carousel-img.png"
-
-import React from 'react';
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 

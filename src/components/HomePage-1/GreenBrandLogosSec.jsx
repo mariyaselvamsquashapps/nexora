@@ -1,7 +1,3 @@
-
-import LogoOne from "../../assets/HomeOne/BrandLogoSec/Logo-1.svg"
-import Star from "../../assets/HomeOne/BrandLogoSec/Star.svg"
-
 import { BrandLogosSecData } from "../../content/data";
 
 const GreenBrandLogosSec = () => {
